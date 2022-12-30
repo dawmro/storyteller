@@ -23,7 +23,7 @@ pip install -r .\requirements.txt
 ## Usage:
 Run python script:
 ``` sh
-python .\storyteller.py
+python .\storyteller_gui.py
 ```
 
 
