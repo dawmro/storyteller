@@ -22,7 +22,15 @@ pip install -r .\requirements.txt
 4. Install ImageMagick:
 ``` sh
 https://imagemagick.org/script/download.php
+
+Add both check boxes:
+* Associate supported file extensions
+* Install legacy utilities
 ```
+
+5. Add your API_KEY to api_key.py file
+
+
 
 ## Usage:
 Run python script:
