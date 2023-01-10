@@ -19,6 +19,10 @@ env/Scripts/activate
 ``` sh
 pip install -r .\requirements.txt
 ```
+4. Install ImageMagick:
+``` sh
+https://imagemagick.org/script/download.php
+```
 
 ## Usage:
 Run python script:
